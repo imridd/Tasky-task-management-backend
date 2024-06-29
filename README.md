@@ -1,14 +1,15 @@
 # Tasky
    Tasky Task Management Backend is a robust Spring Boot application designed to facilitate efficient task management operations with MySQL integration.
 # Table of Contents
-   .Overview
-   .Features
-   .Technologies
-   .Setup Instructions
-   .API Endpoints
-   .Usage Examples
-   .Contributing
-   .License
+
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Technologies](#technologies)
+4. [Setup Instructions](#setup-instructions)
+5. [API Endpoints](#api-endpoints)
+6. [Usage Examples](#usage-examples)
+7. [Contributing](#contributing)
+8. [License](#license)
 # Overview
    Tasky Task Management Backend provides a RESTful API backend for managing tasks, supporting essential CRUD operations (Create, Read, Update, Delete) via dedicated endpoints. 
    It leverages Spring Boot for robustness and MySQL for persistent data storage.
