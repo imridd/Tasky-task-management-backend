@@ -29,10 +29,10 @@
  - **Maven:** Dependency management and build automation
 # Setup Instructions
 
-  **Clone Repository:** git clone https://github.com/imridd/Tasky-task-management-backend.git
-  **Navigate to Project:** cd Tasky-task-management-backend
-  **Build Project:** mvn clean install
-  **Run Application:** java -jar target/tasky-backend.jar
-  **Access API:** Visit http://localhost:8080/tasky/ in RequestBin for API documentation and testing.
+  -  **Clone Repository:** git clone https://github.com/imridd/Tasky-task-management-backend.git
+  -  **Navigate to Project:** cd Tasky-task-management-backend
+  -  **Build Project:** mvn clean install
+  -  **Run Application:** java -jar target/tasky-backend.jar
+  -  **Access API:** Visit http://localhost:8080/tasky/ in RequestBin for API documentation and testing.
 
 
