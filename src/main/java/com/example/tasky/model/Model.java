@@ -9,7 +9,7 @@ int taskid;
 String taskname;
 String description;
 String Status;
-LocalTime taskdue;
+LocalDate taskdue;
 public int getTaskid() {
 	return taskid;
 }
@@ -35,10 +35,10 @@ public String getStatus() {
 public void setStatus(String status) {
 	Status = status;
 }
-public LocalTime getTaskdue() {
+public LocalDate getTaskdue() {
 	return taskdue;
 }
-public void setTaskdue(LocalTime taskdue) {
+public void setTaskdue(LocalDate taskdue) {
 	this.taskdue = taskdue;
 }
 }
